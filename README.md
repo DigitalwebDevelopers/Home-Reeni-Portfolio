@@ -18,8 +18,3 @@ This is my personal portfolio website, designed to showcase my projects, skills,
 - **JavaScript**
 - **jQuery**
 
-## Installation
-
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/portfolio-website.git
