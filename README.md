@@ -18,4 +18,9 @@ This is my personal portfolio website, designed to showcase my projects, skills,
 - **JavaScript**
 - **jQuery**
 
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/KkWUys9-1-Q?si=MdZ33wDhmQsP4BLO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- ## 🎥 Demo Video
+
+> 🚀 **See it in action!**  
+> Click the thumbnail below to watch the full demo on YouTube.
+
+[![Watch the video](https://img.youtube.com/vi/KkWUys9-1-Q/maxresdefault.jpg)](https://youtu.be/KkWUys9-1-Q)
